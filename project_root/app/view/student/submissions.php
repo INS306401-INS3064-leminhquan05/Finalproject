@@ -83,3 +83,4 @@ $typeLabels = [
     </div>
     <?php endif; ?>
 </div>
+
